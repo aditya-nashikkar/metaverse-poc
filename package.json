@@ -1,8 +1,9 @@
 {
-  "repository": "https://github.com/theringsofsaturn/virtual-tour",
+  "repository": "",
   "author": {
-    "name": "theringsofsaturn",
-    "email": "emiliankasemi@gmail.com"
+    "name": "",
+    "email": "",
+    "homepage": "https://gitname.github.io/react-gh-pages"
   },
   "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "scripts": {
