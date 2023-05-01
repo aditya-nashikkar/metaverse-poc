@@ -8,7 +8,9 @@
   "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
-    "dev": "webpack serve --config ./bundler/webpack.dev.js"
+    "dev": "webpack serve --config ./bundler/webpack.dev.js",
+    "predeploy": "npm i",
+    "deploy": "npm run dev",
   },
   "dependencies": {
     "@babel/core": "^7.17.10",
